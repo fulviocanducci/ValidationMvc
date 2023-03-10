@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "dayjs@1.11.7",
+      "destination": "wwwroot/dayjs/"
+    }
+  ]
+}
